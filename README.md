@@ -46,7 +46,7 @@ Gulshan_AI_Passport_Studio/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/Gulshan-AI-Passport-Studio.git
+   git clone https://github.com/gulshanbauddh/Gulshan-AI-Passport-Studio.git
    cd Gulshan-AI-Passport-Studio
    ```
 
