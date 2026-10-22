@@ -106,7 +106,7 @@ dist/Gulshan_AI_Passport_Studio.exe
 ## Author
 
 - **Developer:** Gulshan
-- **Project:** tum Public School ERP & Identity Utility
+- **Project:** Gulshan-AI-Passport-Studio ERP & Identity Utility
 
 ---
 
