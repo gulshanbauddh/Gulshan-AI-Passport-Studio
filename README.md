@@ -102,6 +102,13 @@ dist/Gulshan_AI_Passport_Studio.exe
 ```
 
 ---
+## 📥 Download Standalone Application
+
+Aap bina Python install kiye seedha standalone Windows `.exe` file download karke use kar sakte hain:
+
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%20(.exe)-blue?style=for-the-badge&logo=windows)](https://github.com/gulshanbauddh/Gulshan-AI-Passport-Studio/releases/download/untagged-3dda67332f5a8713d436/Gulshan_AI_Passport_Studio.exe)
+
+*Direct Link:* `https://github.com/gulshanbauddh/Gulshan-AI-Passport-Studio/releases/download/untagged-3dda67332f5a8713d436/Gulshan_AI_Passport_Studio.exe`
 
 ## Author
 

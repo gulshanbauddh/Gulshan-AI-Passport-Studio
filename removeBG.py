@@ -26,7 +26,7 @@ class PassportStudioApp(tk.Tk):
         super().__init__()
 
         self.title("Gulshan Studio - AI Passport Photo Maker")
-        self.iconbitmap("app_icon.ico")
+        # self.iconbitmap("app_icon.ico")
         self.geometry("680x620")
         self.minsize(620, 560)
         self.configure(bg="#F1F5F9")
