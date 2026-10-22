@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+*.spec
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# AI Model Cache & Large Weights
+.rembg/
+*.onnx
+*.download
+
+# Local Raw and Processed Photos
+raw_photos/
+passport_photos/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
